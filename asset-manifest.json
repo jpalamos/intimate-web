@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e553f76.css",
+    "main.js": "/static/js/main.87a7c827.js",
+    "static/media/intimate-logo.png": "/static/media/intimate-logo.10e82eff0bc2ed938c48.png",
+    "index.html": "/index.html",
+    "main.6e553f76.css.map": "/static/css/main.6e553f76.css.map",
+    "main.87a7c827.js.map": "/static/js/main.87a7c827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e553f76.css",
+    "static/js/main.87a7c827.js"
+  ]
+}
