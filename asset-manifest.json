@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.af3af09a.css",
-    "main.js": "/static/js/main.0f76811a.js",
+    "main.js": "/static/js/main.3c1ecdac.js",
+    "static/js/mapbox-gl-csp-worker.ef07c6cc.worker.js": "/static/js/mapbox-gl-csp-worker.ef07c6cc.worker.js",
     "static/media/intimate-logo.png": "/static/media/intimate-logo.10e82eff0bc2ed938c48.png",
     "index.html": "/index.html",
     "main.af3af09a.css.map": "/static/css/main.af3af09a.css.map",
-    "main.0f76811a.js.map": "/static/js/main.0f76811a.js.map"
+    "main.3c1ecdac.js.map": "/static/js/main.3c1ecdac.js.map"
   },
   "entrypoints": [
     "static/css/main.af3af09a.css",
-    "static/js/main.0f76811a.js"
+    "static/js/main.3c1ecdac.js"
   ]
 }
